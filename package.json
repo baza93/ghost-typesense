@@ -32,7 +32,7 @@
     "inquirer": "^14.2.3",
     "prettier": "^3.9.10",
     "turbo": "^2.11.7",
-    "typescript": "^5.3.3"
+    "typescript": "^6.0.3"
   },
   "engines": {
     "node": ">=18.0.0"
